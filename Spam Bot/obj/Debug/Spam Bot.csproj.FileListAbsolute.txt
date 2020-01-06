@@ -1,0 +1,9 @@
+C:\Users\syd\source\repos\Spam Bot\Spam Bot\bin\Debug\Spam Bot.exe.config
+C:\Users\syd\source\repos\Spam Bot\Spam Bot\bin\Debug\Spam Bot.exe
+C:\Users\syd\source\repos\Spam Bot\Spam Bot\bin\Debug\Spam Bot.pdb
+C:\Users\syd\source\repos\Spam Bot\Spam Bot\obj\Debug\Spam Bot.csprojAssemblyReference.cache
+C:\Users\syd\source\repos\Spam Bot\Spam Bot\obj\Debug\Spam_Bot.Form1.resources
+C:\Users\syd\source\repos\Spam Bot\Spam Bot\obj\Debug\Spam_Bot.Properties.Resources.resources
+C:\Users\syd\source\repos\Spam Bot\Spam Bot\obj\Debug\Spam Bot.csproj.GenerateResource.cache
+C:\Users\syd\source\repos\Spam Bot\Spam Bot\obj\Debug\Spam Bot.exe
+C:\Users\syd\source\repos\Spam Bot\Spam Bot\obj\Debug\Spam Bot.pdb
